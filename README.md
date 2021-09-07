@@ -32,3 +32,26 @@
 
 ### Parts 
 * Parts 
+* Contribution
+* Improvement 
+
+
+### Human practices 
+* Overview 
+* IHP 
+* Sci. Comm
+
+
+### Collaboration
+
+* Safety
+* Achievements
+
+### Promotion video 
+* Presentation video 
+
+
+### Resources
+* https://d3js.org/
+* https://visme.co/blog/website-color-schemes/ (16,12,20)
+
