@@ -9,7 +9,7 @@
     <script src="https://kit.fontawesome.com/a076d05399.js"></script>
 </head>
 
-<body>
+<body onload="preloadingfunction()>
     <nav class="navbar">
         <div class="content">
             <div class="logo">
@@ -57,7 +57,12 @@
                 this.scrollY > 20 ? navbar.classList.add("sticky") : navbar.classList.remove("sticky");
             }
         </script>
-
+<script> 
+var preloader = document.getElementById('loading');
+function preloadingfunction(){
+  preloader.style.display = 'none';
+}
+</script>
 </body>
 
 </html>
